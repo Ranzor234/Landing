@@ -1,2 +1,0 @@
-# Landing
-Created with CodeSandbox
